@@ -1,0 +1,10 @@
+.banner{
+    height: 500px;
+
+}
+.carousel-caption{
+
+}
+.carousel-item img{
+   min-height:auto;
+}

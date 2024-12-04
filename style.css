@@ -1,0 +1,23 @@
+.product .card{
+    border: 1.5px solid rgb(87, 137, 230);
+    transition: transform 0.3s ease;
+}
+.product .card:hover{
+    transform: translateX(-10px);
+    box-shadow: 0 10px 10px rgb(81, 134, 202);
+}
+.product_dtails{
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+.product_dtails:hover{
+    transform: translateX(-10px);
+    box-shadow: 0 10px 15px rgb(0, 0, 0);
+}
+.spad {
+    padding-top: 0px;
+    padding-bottom:0px;
+  }
+ .footer{
+    margin-top: 20px;
+ }
